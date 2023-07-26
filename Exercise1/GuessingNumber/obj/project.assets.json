@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elif Dilan\\Desktop\\Exercises\\Exercises\\GuessingNumber\\GuessingNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Elif Dilan\\Desktop\\Exercises\\Exercise1\\GuessingNumber\\GuessingNumber.csproj",
       "projectName": "GuessingNumber",
-      "projectPath": "C:\\Users\\Elif Dilan\\Desktop\\Exercises\\Exercises\\GuessingNumber\\GuessingNumber.csproj",
+      "projectPath": "C:\\Users\\Elif Dilan\\Desktop\\Exercises\\Exercise1\\GuessingNumber\\GuessingNumber.csproj",
       "packagesPath": "C:\\Users\\Elif Dilan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elif Dilan\\Desktop\\Exercises\\Exercises\\GuessingNumber\\obj\\",
+      "outputPath": "C:\\Users\\Elif Dilan\\Desktop\\Exercises\\Exercise1\\GuessingNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
